@@ -1,0 +1,48 @@
+.emojiCard{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(35, 226, 32, 0.2);
+    border-radius: 10px;
+    font-family: Polysans,sans-serif;
+    color: #393e46;
+    cursor: pointer; 
+    border: rgb(223, 237, 237) solid;
+}
+.emojiName{
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.emojiImage{
+    max-width: 100%;
+    height: 100%; 
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.emojiDetails{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ans{
+    font-size: 22px;
+    font-weight: 580;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(6, 6, 6);
+    text-decoration:underline;
+}
+.list{
+    font-size: 20px;
+    font-weight: 550;
+    color: #0a100a;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.info{
+    font-style: italic; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

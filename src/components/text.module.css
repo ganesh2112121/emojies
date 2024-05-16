@@ -1,0 +1,13 @@
+.textContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 126px;
+}
+.text{
+    font-size: 22px;
+    font-weight: 550;
+    margin-bottom: -1px;
+    font-weight: 550;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
